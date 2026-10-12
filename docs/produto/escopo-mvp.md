@@ -27,7 +27,7 @@ O que o mercantil precisa resolver primeiro com o sistema.
 | Usuários e permissões | Pendente | Pendente | — |
 | Relatórios | Pendente | Pendente | — |
 
-Ordem sugerida no resumo do projeto: produtos → estoque → venda → clientes/fiado → caixa → compras e relatórios.
+Ordem sugerida no resumo do projeto: produtos → estoque → venda → clientes/fiado → caixa → compras e relatórios. A proposta detalhada, com classes e métodos por fase, está no [roteiro](roteiro.md).
 
 ## Fora do MVP
 
